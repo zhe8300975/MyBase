@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="base_actoinbar_dimen_default">10dp</dimen>
+    <dimen name="base_actoinbar_dimen_hight">2dp</dimen>
+    <dimen name="base_fragment_default_txt_size">11sp</dimen>
+    <dimen name="base_icon_indicator_img">10dp</dimen>
+</resources>

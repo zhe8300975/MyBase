@@ -1,0 +1,8 @@
+<resources>
+    <string name="base_actoinbar_default_title_name">无标题</string>
+    <string name="base_fragment_empty">暂无数据</string>
+    <string name="base_fragment_nomore">没有更多数据</string>
+    <string name="base_fragment_error">错误</string>
+    <string name="base_progress_dialog_value">正在加载...</string>
+    <string name="base_http_error">网络异常~</string>
+</resources>

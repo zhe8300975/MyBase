@@ -1,0 +1,6 @@
+<resources>
+    <color name="base_click_pressed">#7555B0</color>
+    <color name="base_click_longpressed">#6545a0</color>
+    <color name="base_click_focused">#6545a0</color>
+    <color name="base_black_p50">#000000</color>
+</resources>
